@@ -1,0 +1,16 @@
+TI.com
+maximintegrated.com
+silabs.com
+st.com
+onsemi.com
+analog.com
+nxp.com
+inf.com
+infineon.com
+ftdichip.com
+
+vishay.com
+murata.com
+en.tdk-electronics.tdk.com (epcos.com)
+yageo.com
+bourns.com

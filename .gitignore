@@ -1,0 +1,8 @@
+/ADLib_GOST-master/
+/AltiumLibrary-master/
+*.zip
+*.LOG
+*.url
+usb_20_20180904.rar
+#Где искать компоненты.txt
+*.png
