@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [USB-RS232.PrjPcb]
+   Generated File[USB-RS232.GTO]
+   Generated File[USB-RS232.GTS]
+   Generated File[USB-RS232.GBS]
+   Generated File[USB-RS232.GBO]
+   Generated File[USB-RS232.GM1]
+   Generated File[USB-RS232.RUL]
+   Generated File[USB-RS232.EXTREP]
+   Generated File[USB-RS232.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 13:08:27 On 23.11.2018

@@ -14,3 +14,10 @@ murata.com
 en.tdk-electronics.tdk.com (epcos.com)
 yageo.com
 bourns.com
+
+Магазины для списка компонентов
+Farnell
+Mouser
+Элитан
+Compel
+ДКО Электронщик
