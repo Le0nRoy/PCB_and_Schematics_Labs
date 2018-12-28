@@ -1,18 +1,14 @@
-Output: Gerber Files
-Type  : Gerber
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 6:24:01 On 28.12.2018
+
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [USB-RS485.PrjPcb]
-   Generated File[USB-RS485.GTL]
-   Generated File[USB-RS485.GBL]
-   Generated File[USB-RS485.GTO]
-   Generated File[USB-RS485.GTS]
-   Generated File[USB-RS485.GBS]
-   Generated File[USB-RS485.GM1]
-   Generated File[USB-RS485.RUL]
-   Generated File[USB-RS485.EXTREP]
-   Generated File[USB-RS485.REP]
+   Generated File[Bill of Materials-USB-RS485.xls]
 
 
-Files Generated   : 9
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 5:29:12 On 28.12.2018
+Finished Output Generation At 6:24:09 On 28.12.2018
