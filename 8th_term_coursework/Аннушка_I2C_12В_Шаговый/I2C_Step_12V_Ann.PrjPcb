@@ -293,7 +293,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
-DocumentPath=I2C_Step_12V_List2.SchDoc
+DocumentPath=I2C_Step_12V_Ann.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -307,7 +307,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HDRRNMDA
+DocumentUniqueId=RRIKSTMA
 
 [Configuration1]
 Name=Sources
