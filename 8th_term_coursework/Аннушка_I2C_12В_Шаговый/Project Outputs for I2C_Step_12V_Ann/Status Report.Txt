@@ -1,0 +1,18 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [I2C_Step_12V_Ann.PrjPcb]
+   Generated File[I2C_Step_12V_Ann.GTL]
+   Generated File[I2C_Step_12V_Ann.GBL]
+   Generated File[I2C_Step_12V_Ann.GTO]
+   Generated File[I2C_Step_12V_Ann.GTP]
+   Generated File[I2C_Step_12V_Ann.GBS]
+   Generated File[I2C_Step_12V_Ann.GM1]
+   Generated File[I2C_Step_12V_Ann.RUL]
+   Generated File[I2C_Step_12V_Ann.EXTREP]
+   Generated File[I2C_Step_12V_Ann.REP]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 5:17:04 On 10.04.2019
