@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\Study\7th term\MicroControllers\Schemes\8th_term_coursework\Вано_CAN_12В_Шаговый\can_12V_step_Ivan.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
