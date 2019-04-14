@@ -1,0 +1,18 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [rs232_12V_step_Vadim.PrjPcb]
+   Generated File[rs232_12V_step_Vadim.GTL]
+   Generated File[rs232_12V_step_Vadim.GBL]
+   Generated File[rs232_12V_step_Vadim.GTO]
+   Generated File[rs232_12V_step_Vadim.GTP]
+   Generated File[rs232_12V_step_Vadim.GBS]
+   Generated File[rs232_12V_step_Vadim.GM1]
+   Generated File[rs232_12V_step_Vadim.RUL]
+   Generated File[rs232_12V_step_Vadim.EXTREP]
+   Generated File[rs232_12V_step_Vadim.REP]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 0:40:19 On 14.04.2019
