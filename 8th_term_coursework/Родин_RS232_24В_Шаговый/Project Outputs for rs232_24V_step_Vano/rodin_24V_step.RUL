@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\Study\7th term\MicroControllers\Schemes\8th_term_coursework\Родин_RS232_24В_Шаговый\rodin_24V_step.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
